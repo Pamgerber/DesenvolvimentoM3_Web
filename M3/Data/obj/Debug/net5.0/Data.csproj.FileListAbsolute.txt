@@ -10,3 +10,6 @@ C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\ref\Data.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
