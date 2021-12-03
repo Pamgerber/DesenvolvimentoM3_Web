@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Data.Repositorys
 {
-    class BaseRepository<T> where T : BaseModel
+    public class BaseRepository<T> where T : BaseModel
     {
         public void Create(T model)
         {
