@@ -34,7 +34,6 @@ C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\n
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\ref\Data.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.pdb
-C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
