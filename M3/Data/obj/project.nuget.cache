@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sXEAGn1pdwgjD5SBpMpMb5z+/R/ZPCXfcpH5BfQtdKqvxUKuGpR6+/HnHdM/N7Fw5ed2yqAU3K63+TaMexb+Sw==",
+  "dgSpecHash": "4cn3vE45qZfj2w73ha0ufDzwvTaJ9fFUXuMHvshX4V06bWme+zosfDw733DjD3gv83QR3L0XpDp1r2YqbQRKyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

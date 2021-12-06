@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data.Models
 {
-    class ContatoModel : BaseModel
+    public class ContatoModel : BaseModel
     {
         public string nome { get; set; }
         public string email { get; set; }
