@@ -34,3 +34,5 @@ C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\obj\Debug
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\obj\Debug\net5.0\ref\apiLab.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\obj\Debug\net5.0\apiLab.pdb
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\obj\Debug\net5.0\apiLab.genruntimeconfig.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\bin\Debug\net5.0\Docker.DotNet.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\bin\Debug\net5.0\Newtonsoft.Json.dll
