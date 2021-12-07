@@ -1,0 +1,44 @@
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.dll
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.dll
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\ACER\Desktop\banco de dados\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
