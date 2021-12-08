@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\apiLab\\apiLab.csproj": {}
+    "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\apiLab\\apiLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\apiLab\\apiLab.csproj": {
+    "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\apiLab\\apiLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\apiLab\\apiLab.csproj",
+        "projectUniqueName": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\apiLab\\apiLab.csproj",
         "projectName": "apiLab",
-        "projectPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\apiLab\\apiLab.csproj",
-        "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\apiLab\\obj\\",
+        "projectPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\apiLab\\apiLab.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\apiLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj"
+              "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj": {
+                "projectPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj"
               }
             }
           }
@@ -47,6 +47,12 @@
             "Docker.DotNet": {
               "target": "Package",
               "version": "[3.125.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -75,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj": {
+    "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\obj\\",
+        "projectPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

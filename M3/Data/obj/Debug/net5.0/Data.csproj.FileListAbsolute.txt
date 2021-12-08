@@ -42,3 +42,18 @@ C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\n
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\ref\Data.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.pdb
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.deps.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\bin\Debug\net5.0\Data.pdb
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.pdb
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache

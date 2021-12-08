@@ -1,0 +1,20 @@
+p{
+    width: 90%;
+    margin: 5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+#textoInicial{
+    text-align: center;
+    width: 25%;
+}
+.test{
+    display: flex;
+}
+.texto{
+    padding: 10px;
+}
+
+.titulo{
+    font-weight: bold;
+}
