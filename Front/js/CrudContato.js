@@ -7,7 +7,13 @@ function Salvar(){
     let assunto = document.getElementById("emailAssunto").value;
     let mensagem = document.getElementById("exampleFormControlTextarea1").value;
     let Request = new XMLHttpRequest();
-    let Contato = {"nome": nome, "email": email, "assunto": assunto, "mensagem": mensagem};
+    let Contato = 
+    {
+        "nome": nome,
+        "email": email,
+        "assunto": assunto,
+        "mensagem": mensagem
+    };
     let teste = JSON.stringify(Contato);
 
     Request.open("POST" , endpoint);
