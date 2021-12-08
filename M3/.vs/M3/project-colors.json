@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "166b3290-3a93-4924-95d5-0eb773a772ab": {
+      "ProjectGuid": "166b3290-3a93-4924-95d5-0eb773a772ab",
+      "DisplayName": "Data",
+      "ColorIndex": 0
+    },
+    "23ff9069-9e69-4746-99a6-eea3f5aa4dd7": {
+      "ProjectGuid": "23ff9069-9e69-4746-99a6-eea3f5aa4dd7",
+      "DisplayName": "apiLab",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
