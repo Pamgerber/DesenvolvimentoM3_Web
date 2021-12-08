@@ -17,7 +17,7 @@ namespace Data.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("server =192.168.0.104;Database=postgres;User id =postgres;Password=74269;Persist Security Info=True");
+            optionsBuilder.UseNpgsql("host =localhost;Database=postgres;User id =postgres;Password=123;Persist Security Info=True");
 
         }
 

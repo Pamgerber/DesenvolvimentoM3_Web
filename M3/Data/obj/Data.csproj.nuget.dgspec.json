@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj": {}
+    "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj": {
+    "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius\\Documents\\GitHub\\DesenvolvimentoM3_Web_bkp\\M3\\Data\\obj\\",
+        "projectPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuário (NÃO APAGAR)\\Documents\\GitHub\\DesenvolvimentoM3_Web\\M3\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -36,3 +36,43 @@ C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\obj\Debug
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\obj\Debug\net5.0\apiLab.genruntimeconfig.cache
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\bin\Debug\net5.0\Docker.DotNet.dll
 C:\Users\vinicius\Documents\GitHub\DesenvolvimentoM3_Web_bkp\M3\apiLab\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\appsettings.Development.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\appsettings.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.StaticWebAssets.xml
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.exe
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.deps.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.runtimeconfig.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.runtimeconfig.dev.json
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\ref\apiLab.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\apiLab.pdb
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Docker.DotNet.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Npgsql.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Data.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Data.pdb
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.csproj.AssemblyReference.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.AssemblyInfoInputs.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.AssemblyInfo.cs
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.csproj.CoreCompileInputs.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.MvcApplicationPartsAssemblyInfo.cs
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.MvcApplicationPartsAssemblyInfo.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\scopedcss\bundle\apiLab.styles.css
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\staticwebassets\apiLab.StaticWebAssets.Manifest.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.RazorTargetAssemblyInfo.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.csproj.CopyComplete
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\ref\apiLab.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.pdb
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.genruntimeconfig.cache
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Humanizer.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

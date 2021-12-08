@@ -1,0 +1,29 @@
+.fomulario{
+    
+   padding: 25px;
+    margin: auto;
+    max-width: 800px;
+}
+.entradas{
+    max-width: 510px;
+    margin: 25px;
+}
+.entradas input{
+  background-color: #ccc;
+}
+select{
+    background-color: #ccc;
+}
+.fomulario button{
+    border: 1px solid #8F720A;
+    background-color: #8F720A;
+    color: #fff;
+}
+.bt-01{
+    border: 1px solid #8F720A;
+    background-color: #8F720A;
+    color: #fff;  
+}
+#btContato{
+    margin: 10px;
+}

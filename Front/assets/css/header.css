@@ -1,0 +1,28 @@
+header{
+    background-color: #8F720A;
+}
+#user{
+    background-color: #555;
+    margin-left: 5px;   
+}
+.logo{
+    padding: 0px 35px;
+}
+#textLogo{
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.menuText{
+    color: #fff;
+}
+
+
+@media(min-width: 992px){
+    .dropdown{
+        margin-right: 30px;
+    }
+    
+
+}
