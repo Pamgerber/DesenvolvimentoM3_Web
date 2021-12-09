@@ -10,6 +10,11 @@
       "ProjectGuid": "23ff9069-9e69-4746-99a6-eea3f5aa4dd7",
       "DisplayName": "apiLab",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 2

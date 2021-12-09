@@ -1,5 +1,5 @@
 const host = "http://localhost:55476/api";
-const endpoint = host + "/Contato";
+const endpoint = host + "/Agendamento";
 
 function Salvar(){
     let IdSolicitacao= document.getElementById("IdSolicitacao").value;

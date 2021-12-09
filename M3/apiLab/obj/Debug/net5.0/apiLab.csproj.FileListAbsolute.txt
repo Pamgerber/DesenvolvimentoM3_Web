@@ -76,3 +76,10 @@ D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\D
 D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\obj\Debug\net5.0\apiLab.genruntimeconfig.cache
 D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Humanizer.dll
 D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\System.Web.Cors.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\System.Web.Http.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\System.Web.Http.Cors.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Usuário (NÃO APAGAR)\Documents\GitHub\DesenvolvimentoM3_Web\M3\apiLab\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
