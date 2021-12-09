@@ -29,6 +29,8 @@ namespace apiLab
         {
 
             services.AddControllers();
+            services.AddCors();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "apiLab", Version = "v1" });
@@ -46,8 +48,9 @@ namespace apiLab
             }
 
             app.UseRouting();
-
+            app.UseCors(options => options.AllowAnyOrigin().AllowAnyHeader()) ; 
             app.UseAuthorization();
+
 
             app.UseEndpoints(endpoints =>
             {

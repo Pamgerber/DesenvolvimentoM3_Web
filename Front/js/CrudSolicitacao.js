@@ -1,10 +1,10 @@
 const host = "http://localhost:55476/api";
-const endpoint = host + "/Contato";
+const endpoint = host + "/Solicitacao";
 
 function Salvar(){
-    let NotaFiscal = document.getElementById("nNotaFiscal").value;
+    let NotaFiscal = int.parse(document.getElementById("nNotaFiscal").value);
     let Venda = document.getElementById("ordemVenda").value;
-    let Frete = document.getElementById("cotacaoFrete").value;
+    let Frete = decimal.parse(document.getElementById("cotacaoFrete").value);
     let PrazoInicial = document.getElementById("inicial").value;
     let PrazoFinal = document.getElementById("final").value;
     let Status = document.getElementById("status").value;
@@ -14,11 +14,12 @@ function Salvar(){
         "nota": NotaFiscal,
         "ordemVenda": Venda,
         "frete": Frete,
-        "prazoInicio": PrazoInicial,
-        "prazoFinal": PrazoFinal,
+        "prazoInicio": "2021-12-09T00:46:42.972Z",
+        "prazoFim": "2021-12-09T00:46:42.972Z",
         "status": Status
     };
     let teste = JSON.stringify(solicitacao);
+
     Request.open("POST" , endpoint);
     Request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
     Request.send(teste);
@@ -41,10 +42,9 @@ function carregarLista(){
             <td>${sol.ordemVenda}</td>
             <td>${sol.Status}</td>
         </tr>`;
-        }
+        })
 
     }
-
 }
 
 
